@@ -15,17 +15,6 @@ public class Cliente implements Autenticador {
         return nome;
     }
 
-//    public void setNome(String nome) {
-//        this.nome = nome;
-//    }
-//
-//    public boolean isStatus() {
-//        return status;
-//    }
-//
-//    public void setStatus(boolean status) {
-//        this.status = status;
-//    }
 
     public String getSenha() {
         return senha;
